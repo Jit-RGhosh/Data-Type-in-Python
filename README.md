@@ -15,7 +15,7 @@ We can write a string quote by using Single Quote, Double Quote or Triple Quote
 
 ## Creation of List Data Type - 
 
-Lits Data type in Paython can store multiple type of Data. 
+List Data type in Paython can store multiple type of Data. 
 It is dynamic but can not grow dynamically during run time.
 We can also use use Indexing in List type data
 
